@@ -1,0 +1,10 @@
+#Phone{
+    height: 100vh;
+    background: linear-gradient (to right, corol, corol);
+    color: white;
+    margin-bottom: 70px;
+}
+
+#skills{
+    margin-top: 70px
+}

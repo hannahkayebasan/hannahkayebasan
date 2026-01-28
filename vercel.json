@@ -1,0 +1,5 @@
+{
+    "rewritess": [
+        {"source": "/(.*)", "destination": "portfolio.html"}
+    ]
+}
